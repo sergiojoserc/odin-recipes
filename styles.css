@@ -1,0 +1,30 @@
+html{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* Index styles*/
+
+.main-title{
+    text-align: center;
+    background-image: linear-gradient(red,white,green);
+}
+
+.main-img{
+    display: block;
+    margin: auto;
+    border-radius: 10%;
+}
+
+.recipe-list{
+    list-style-type: "\1F475";
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.recipe{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
